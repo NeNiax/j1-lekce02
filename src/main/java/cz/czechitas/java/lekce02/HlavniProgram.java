@@ -10,7 +10,7 @@ public class HlavniProgram {
         //TODO tady bude kód
 
         // toto je řádek, který domeček postaví
-        zofka.turnRight(90);
+        //zofka.turnRight(90);
 
         // udělá čtvereček
         zofka.turnRight(180);
@@ -25,13 +25,12 @@ public class HlavniProgram {
         zofka.move(70);
 
         // tady se přidají nožičky
-/*
         nozicka();
         zofka.turnRight(30);
         zofka.move(100);
         zofka.turnRight(30);
         nozicka();
-*/
+
     }
 
     private void nozicka() {
