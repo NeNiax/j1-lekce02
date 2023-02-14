@@ -18,7 +18,7 @@ public class HlavniProgram {
             zofka.move(100);
             zofka.turnLeft(90);
         }
-        //udělá střechu
+        //přidá střechu
         zofka.turnRight(45);
         zofka.move(70);
         zofka.turnLeft(90);
